@@ -1,0 +1,26 @@
+{
+  "name": "formula-arithmo",
+  "version": "1.0.0",
+  "description": "数式、クエリ、フォーミュラを解釈し、計算するlibrary\r JavaScript,TypeScript,Rust,c/c++で開発予定",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tukigase/Formula-Arithmo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Tukigase/Formula-Arithmo/issues"
+  },
+  "homepage": "https://github.com/Tukigase/Formula-Arithmo#readme",
+  "devDependencies": {
+    "@types/node": "^25.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
